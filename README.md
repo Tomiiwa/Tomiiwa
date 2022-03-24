@@ -2,7 +2,7 @@
 - 👀 I’m interested in technical writing, UX Design.
 - 🌱 I’m currently looking to improve my technical writing portfolio.
 - 💞️ I’m looking to collaborate on open source projects regarding technical writing.
-- 📫 How to reach me ...
+- 📫 You can reach me via linkedin, the link is in my bio
 
 <!---
 Tomiiwa/Tomiiwa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
